@@ -1,5 +1,5 @@
 # Machine_Learning
-This repository contain some side projects on machine learning algorithms based on Kaggle Competitions
+This repository contain side projects on machine learning algorithms based on Kaggle Competitions
 
 ## Monsters.py
 Based on https://www.kaggle.com/competitions/ghouls-goblins-and-ghosts-boo/overview competition of kaggle, this file contains the algorithms:
